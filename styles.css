@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(197, 197, 197);
+}
+
+h1 {
+    background-color: rgb(213, 180, 180);
+    color: rgb(29, 45, 106);
+    font-family: "Lucinda Handwriting", cursive;
+}
+
+h2 {
+    text-align: center;
+    color:rgb(133, 141, 0);
+}
+
+.disclaimer {
+    color:rgb(147, 147, 147);
+    background-color: rgb(64, 64, 64);
+    font-style:italic;
+}
+
+p {
+    font-family: Arial, sans-serif;
+}
+
+.ingredients {
+    font-family: "Lucida Console", monospace;
+}
