@@ -1,0 +1,1 @@
+This website is a project for The Odin Project. It is an HTML website. The website will host recipes.
