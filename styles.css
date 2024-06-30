@@ -6,6 +6,9 @@ h1 {
     background-color: rgb(213, 180, 180);
     color: rgb(29, 45, 106);
     font-family: "Lucinda Handwriting", cursive;
+    text-align: center;
+    margin: 1em 5em;
+    border: dotted black;
 }
 
 h2 {
@@ -13,16 +16,31 @@ h2 {
     color:rgb(133, 141, 0);
 }
 
+.recipe-list {
+    margin: 20px;
+}
+
 .disclaimer {
     color:rgb(147, 147, 147);
     background-color: rgb(64, 64, 64);
     font-style:italic;
+    font-size: 6px;
+    padding: 2px;
+}
+
+.image-chicken {
+    display: block;
+    margin: 5px auto;
+    height: auto;
+    width: 500px;
 }
 
 p {
     font-family: Arial, sans-serif;
+    margin: 0 20px;
 }
 
 .ingredients {
     font-family: "Lucida Console", monospace;
+    margin: 5px 30px;
 }
